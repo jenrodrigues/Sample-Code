@@ -7,11 +7,12 @@ namespace LISTING_1_4_Managing_a_parallel_For_loop
 {
     class Program
     {
+        //
         static void WorkOnItem(object item)
         {
             Console.WriteLine("Started working on: " + item);
             Thread.Sleep(100);
-            Console.WriteLine("Finished working on: " + item);
+            Console.WriteLine("Finished working on: " + item); 
         }
 
         static void Main(string[] args)
