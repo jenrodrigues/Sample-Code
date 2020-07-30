@@ -11,3 +11,10 @@ C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-4 Managing a parallel For 
 C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-4 Managing a parallel For loop\LISTING 1-4 Managing a parallel For loop\obj\Debug\LISTING 1-4 Managing a parallel For loop.csproj.CoreCompileInputs.cache
 C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-4 Managing a parallel For loop\LISTING 1-4 Managing a parallel For loop\obj\Debug\LISTING 1-4 Managing a parallel For loop.exe
 C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-4 Managing a parallel For loop\LISTING 1-4 Managing a parallel For loop\obj\Debug\LISTING 1-4 Managing a parallel For loop.pdb
+C:\Users\Jennifer\Source\Repos\Sample-Code\LISTING 1-4 Managing a parallel For loop\LISTING 1-4 Managing a parallel For loop\bin\Debug\LISTING 1-4 Managing a parallel For loop.exe.config
+C:\Users\Jennifer\Source\Repos\Sample-Code\LISTING 1-4 Managing a parallel For loop\LISTING 1-4 Managing a parallel For loop\bin\Debug\LISTING 1-4 Managing a parallel For loop.exe
+C:\Users\Jennifer\Source\Repos\Sample-Code\LISTING 1-4 Managing a parallel For loop\LISTING 1-4 Managing a parallel For loop\bin\Debug\LISTING 1-4 Managing a parallel For loop.pdb
+C:\Users\Jennifer\Source\Repos\Sample-Code\LISTING 1-4 Managing a parallel For loop\LISTING 1-4 Managing a parallel For loop\obj\Debug\LISTING 1-4 Managing a parallel For loop.csprojAssemblyReference.cache
+C:\Users\Jennifer\Source\Repos\Sample-Code\LISTING 1-4 Managing a parallel For loop\LISTING 1-4 Managing a parallel For loop\obj\Debug\LISTING 1-4 Managing a parallel For loop.csproj.CoreCompileInputs.cache
+C:\Users\Jennifer\Source\Repos\Sample-Code\LISTING 1-4 Managing a parallel For loop\LISTING 1-4 Managing a parallel For loop\obj\Debug\LISTING 1-4 Managing a parallel For loop.exe
+C:\Users\Jennifer\Source\Repos\Sample-Code\LISTING 1-4 Managing a parallel For loop\LISTING 1-4 Managing a parallel For loop\obj\Debug\LISTING 1-4 Managing a parallel For loop.pdb
